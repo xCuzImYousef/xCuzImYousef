@@ -4,7 +4,7 @@ I'm Yousef a data scientist based in Germany.
 
 ---
 
-Tool I use
+Tools I Use
 
 * IntellJ, PyCharm, VsCode
 * Obsidian, Notion
