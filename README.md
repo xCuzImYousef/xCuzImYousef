@@ -11,7 +11,7 @@ Tools I Use
 
 ---
 
-A Bit About 
+A Bit About Me
 
 * I love chocolate
 * I read a lot
